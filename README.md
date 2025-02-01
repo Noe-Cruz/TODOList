@@ -9,6 +9,7 @@ npm v10.8.2
 Ejecutar sobre la carpeta .\backend para la instalación de las dependencias
 
 cd backend
+
 npm install
 
 ## Ejecución
