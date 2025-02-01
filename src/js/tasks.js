@@ -100,6 +100,7 @@ function deleteTask(id){
 
   if( response ){
     load.style.display = 'block';
+    clearForm();
 
     fetch('http://localhost:4000/api/tasks/'+ id, {
         method: 'DELETE'
