@@ -2,20 +2,18 @@
 Este proyecto es una aplicación de lista de tareas creado con Node.js, Express, JavaScript, HTML y CSS.
 
 ## Requerimientos
-node v20.18.1
+node v18
 npm v10.8.2
 
 ## Instalación
-Ejecutar sobre la carpeta .\backend para la instalación de las dependencias
-
-cd backend
+Ejecutar desde la raíz del proyecto para la instalación de las dependencias
 
 npm install
 
 ## Ejecución
-Ejecutar para inicializar el servidor Node.js manteniendose sobre la carpeta backend
+Para iniciar el servidor
 
 node index.js
 
 ## Interfaz
-Abrir el archivo index.html desde un navegador para acceder a la interfaz gráfica.
+Acceder a la URL http://localhost:4000/home desde un navegador.

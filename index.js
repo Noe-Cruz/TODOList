@@ -8,5 +8,5 @@ const app = require('./app')
 /**Inicialización del servidor*/
 const port = process.env.PORT || 4000
 app.listen(port, () => {
-    console.log('Service on port: ' + port)
+    console.log('Service on port: ' + port + '\nAcceder mediante: http://localhost:4000/home')
 })
